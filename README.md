@@ -1,3 +1,3 @@
 # PRIZEASIIMWE
 CAPSTONE PROJECT WORK
-Exercises 3
+Exercises
